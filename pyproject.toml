@@ -20,7 +20,7 @@ dependencies = [
 license = { file = "LICENSE" }
 
 [tool.setuptools]
-package-dir = { "audai" = "audioai" }
+package-dir = { "visionai" = "visionai" }
 
 [project.optional-dependencies]
 dev = ["black>=21.6b0", "isort>=5.9.2", "pytest>=7.4.4"]
