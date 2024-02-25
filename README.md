@@ -1,4 +1,4 @@
-# Vision AI: Deep Neural Network Architectures for Audio Processing Tasks
+# Vision AI: Deep Neural Network Architectures for Vision Recognition Tasks
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A repository hosting deep neural network architectures trained visual data. These include ImageGen, VideoGen, ImageClassification etc. The main purpose of this repository is to serve as a practitioner's guide to building an end-to-end industry grade deep learning model training pipeline.
